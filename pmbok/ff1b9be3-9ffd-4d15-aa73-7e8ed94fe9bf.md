@@ -7,6 +7,7 @@ exo__Asset_createdBy: "[[de20a3f1-7483-4714-ab28-b45f5cf02c76]]"
 exo__Instance_class:
   - "[[8619c4fc-64f1-4869-b17e-e34186cacca9]]"
 exo__Asset_label: pmbok__RiskItem
+exo__Slugable_slug: "RiskItem"
 exo__Class_superClass:
   - "[[493c2ae2-de56-47ec-954d-2eb8cb49bff7]]"
 exo__Asset_description: PMBOK Risk Management — discrete risk register entry tracking a potential project event with status, probability, impact и optional mitigation summary. Living artifact (status transitions Open→Mitigated→Realized→Closed). prov:Entity-style placeholder. Disjoint with pmbok__IssueItem (M3 territory) — Risk = potential, Issue = realized; if Risk realized, _realizedAsIssue links к spawned IssueItem.
