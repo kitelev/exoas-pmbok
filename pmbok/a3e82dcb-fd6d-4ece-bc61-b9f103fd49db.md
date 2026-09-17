@@ -2,7 +2,7 @@
 exo__Asset_isDefinedBy: "[[58df7855-d5fc-4f7c-9fa5-d909a1749b7e]]"
 exo__Asset_uid: a3e82dcb-fd6d-4ece-bc61-b9f103fd49db
 exo__Asset_createdAt: 2026-05-16T13:02:15+0500
-exo__Asset_updatedAt: 2026-05-16T13:02:15+0500
+exo__Asset_updatedAt: 2026-09-17T08:29:14
 exo__Asset_createdBy: "[[de20a3f1-7483-4714-ab28-b45f5cf02c76]]"
 exo__Instance_class:
   - "[[985f6c53-5925-4b03-9c2b-202b196d11a2]]"
@@ -10,7 +10,6 @@ exo__Asset_label: "Phase 2 Charter — Measurement #1 (decision gate)"
 aliases:
   - "Charter — Phase 2 gate"
   - "Чартер — Фаза 2 замер"
-pmbok__ProjectCharter_project: "[[e0c1a23b-4ffc-4029-8e5b-fc40e8210cce]]"
 pmbok__ProjectCharter_authorizedBy: "[[0aa339bc-9b56-400a-8148-cbde57bbf0b6]]"
 exo__Asset_relates:
   - "[[5003ef6f-fe89-456c-a1e9-19b475bf4f5e]]"
@@ -39,3 +38,7 @@ exo__Asset_relates:
 - 30 минут wall-time
 - User decision required
 - Owner: a.kitelev (gate authority)
+
+## Провенанс правки ссылок (тикет `86bea0c3`, 2026-09-17)
+
+- `pmbok__ProjectCharter_project` → `e0c1a23b-4ffc-4029-8e5b-fc40e8210cce` («Phase 2 — Measurement #1 (gate)», архив `exoas-my-archive`, `my-archive-2026-07/e0c1a23b-4ffc-4029-8e5b-fc40e8210cce.md`) — ссылка снята: цель в холодном архиве, решение фаундера 2026-09-16 п.3
